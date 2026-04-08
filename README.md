@@ -1,6 +1,6 @@
 # Hello, I am Javier Cáceres :man_student:
 ### :man_technologist: Software Engineering Student 🔰ESPE🔰
-### I love the universe :man_astronaut: 
+### the universe intrigues me :man_astronaut: 
 
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
@@ -22,7 +22,7 @@
 ---
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me😉</h2></summary>
+    <summary><h2 style="display: inline-block">Contact me 😉</h2></summary>
   </ul>
 </div>
 
