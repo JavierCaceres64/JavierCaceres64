@@ -26,7 +26,7 @@
   </ul>
 </div>
 
-:star: :mailbox: E-mail **kjcaceres1@espe.edu.ec** :star:
+:star: :mailbox: E-mail **kjcaceres16@icloud.com** :star:
 
 
 
